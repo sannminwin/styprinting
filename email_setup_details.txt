@@ -1,0 +1,31 @@
+
+
+Email Manual Settings
+======================
+If you do not see an auto-configuration script for your client in the list above, you can manually configure your mail client using the settings below:
+-----------------------------------------------------------
+Secure SSL/TLS Settings
+(Recommended)
+Username:	info@styprinting.com
+Password:	Use the email account’s password.
+Incoming Server:	s12.netscriper.com
+IMAP Port: 993
+POP3 Port: 995
+Outgoing Server:	s12.netscriper.com
+SMTP Port: 465
+Authentication is required for IMAP, POP3, and SMTP.
+
+--------------------------------------------------------------
+
+Non-SSL Settings
+(NOT Recommended)
+Username:	info@styprinting.com
+Password:	Use the email account’s password.
+Incoming Server:	mail.styprinting.com
+IMAP Port: 143
+POP3 Port: 110
+Outgoing Server:	mail.styprinting.com
+SMTP Port: 26
+Authentication is required for IMAP, POP3, and SMTP.
+
+------------------------------------------------------------------
